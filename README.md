@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="170" alt="rumblepad logo: a gamepad with vibration arcs">
+</p>
+
 # rumblepad
 
 Switch-protocol and 8BitDo gamepads over HID (Bluetooth): input state and HD rumble, in Rust.

@@ -1,3 +1,6 @@
+#![doc(
+    html_logo_url = "https://raw.githubusercontent.com/aovestdipaperino/rumblepad/main/assets/logo.svg"
+)]
 //! Switch-protocol pads (Nintendo, or an 8BitDo with its mode switch on S) and 8BitDo D-input
 //! over HID (Bluetooth): input state + HD rumble. Rumble needs the Switch side; D-input has none.
 use hidapi::{HidApi, HidDevice, HidError};
