@@ -174,7 +174,7 @@ impl Controller {
 
         if kind == Kind::Switch {
             // Enable vibration
-            c.subcommand(0x48, &[])?;
+            c.subcommand(0x48, &[0x01])?;
             // Full input reports
             c.subcommand(0x03, &[0x30])?;
             // Player 1 LED
