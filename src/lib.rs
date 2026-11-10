@@ -212,7 +212,6 @@ impl Controller {
             0x00,
             0x00,
             0x00,
-            0x00,
             id,
         ];
         p.extend_from_slice(data);
