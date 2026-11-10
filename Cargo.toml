@@ -1,6 +1,6 @@
 [package]
 name = "rumblepad"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Switch-protocol and 8BitDo gamepads over HID: input state and HD rumble"
 license = "MIT OR Apache-2.0"
