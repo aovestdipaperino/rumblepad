@@ -4,6 +4,8 @@
 
 # rumblepad
 
+[![GitHub stars](https://img.shields.io/github/stars/aovestdipaperino/rumblepad?logo=github&color=brightgreen)](https://github.com/aovestdipaperino/rumblepad/stargazers)
+
 Switch-protocol and 8BitDo gamepads over HID (Bluetooth): input state and HD rumble, in Rust.
 
 Built against, and measured on, an **8BitDo Lite 2** — a single physical pad whose mode switch
